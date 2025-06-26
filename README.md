@@ -179,7 +179,7 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirushnathSr&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirushanthSr&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
