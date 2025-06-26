@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Selvaratnam Kirushanth
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;Software+Developer;Machine+Learning+Enthusiast;Web+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -90,16 +90,16 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 
 ## 🌟 Featured Projects
 
-### 🗂️ SKANNJ Smart Waste Management System
-**Real-Time Bin Monitoring & Analytics Platform**
-- 🔧 **Tech Stack:** React, Material-UI, Socket.IO, REST API
-- 📊 Built a modern dashboard for real-time waste bin monitoring
-- ⚡ Integrated live data updates and interactive analytics
-- 🎯 Streamlined waste collection and improved operational efficiency
+### 💼 Developer Portfolio
+**Personal Portfolio Website**
+- 🔧 **Tech Stack:** React, Vite, Tailwind CSS, GitHub Pages
+- ✨ Built sleek and responsive portfolio showcasing projects and skills
+- ⚡ Leveraged Vite for fast build times and modern development
+- 🎨 Clean, utility-first styling with Tailwind CSS
 
 <p align="left">
-  <a href="https://github.com/kirushanthSr/skannj-dashboard"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://your-live-demo.com"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://github.com/kirushanthSr/Portfolio_Kirushnath.git"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://kirushanthsr.github.io/Portfolio_Kirushnath/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 </p>
 
 ### 🌐 Smart Bin Awareness Web Interface
@@ -110,8 +110,19 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 - 🚀 Deployed using GitHub Pages
 
 <p align="left">
-  <a href="https://github.com/your-username/skannj-web"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://your-live-demo.com"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://github.com/kirushanthSr/SKANNJ.git"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://kirushanthsr.github.io/SKANNJ/"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+</p>
+
+### 🗂️ SKANNJ Smart Waste Management System
+**Real-Time Bin Monitoring & Analytics Platform**
+- 🔧 **Tech Stack:** React, Material-UI, Socket.IO, REST API
+- 📊 Built a modern dashboard for real-time waste bin monitoring
+- ⚡ Integrated live data updates and interactive analytics
+- 🎯 Streamlined waste collection and improved operational efficiency
+
+<p align="left">
+  <a href="https://github.com/kirushanthSr/SKANNJ-DashBoard.git"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ### 📚 Bookstore REST API
@@ -122,7 +133,7 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 - ⚡ Implemented efficient in-memory storage for rapid development
 
 <p align="left">
-  <a href="https://github.com/your-username/bookstore-api"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/kirushanthSr/BookStoreAPI.git"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ### 🧠 Breast Cancer Survival Analysis
@@ -133,19 +144,7 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 - 📊 Performed comprehensive data analysis and visualization
 
 <p align="left">
-  <a href="https://github.com/your-username/breast-cancer-analysis"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-### 💼 Developer Portfolio
-**Personal Portfolio Website**
-- 🔧 **Tech Stack:** React, Vite, Tailwind CSS, GitHub Pages
-- ✨ Built sleek and responsive portfolio showcasing projects and skills
-- ⚡ Leveraged Vite for fast build times and modern development
-- 🎨 Clean, utility-first styling with Tailwind CSS
-
-<p align="left">
-  <a href="https://github.com/your-username/portfolio"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+  <a href="https://github.com/kirushanthSr/BreastCancerPredictionUsingMachineLearning.git"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -180,7 +179,7 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirushnathSr&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -188,7 +187,7 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kirushanthSr&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </div>
 
 ---
@@ -215,7 +214,7 @@ I'm always open to discussing new opportunities, collaborating on exciting proje
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kirushanthSr&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
