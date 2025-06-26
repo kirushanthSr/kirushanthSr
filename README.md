@@ -75,15 +75,15 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kirushanthSr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirushanthSr&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirushanthSr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -98,7 +98,7 @@ I'm a passionate **Software Engineering Undergraduate** at the University of Wes
 - 🎯 Streamlined waste collection and improved operational efficiency
 
 <p align="left">
-  <a href="https://github.com/your-username/skannj-dashboard"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/kirushanthSr/skannj-dashboard"><img src="https://img.shields.io/badge/View_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://your-live-demo.com"><img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 </p>
 
